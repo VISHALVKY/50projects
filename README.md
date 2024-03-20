@@ -2,7 +2,7 @@
 
 📢 Exciting news! Introducing our "50project 50days using HTML CSS JS" designed to take your web development abilities to new heights. 🌟 Join us on this journey as we explore a wide range of projects that will enhance your skills and expand your coding repertoire. Let's dive in and level up! 💻✨
 
-- 3D Background Boxes
+-3D Background Boxes
 - [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/3D%20Background%20Boxes)
 - [Live demo](https://vishalvky.github.io/50projects50days/3D%20Background%20Boxes/)
 
