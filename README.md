@@ -1,6 +1,6 @@
 # 50project 50days
 
-📢 Exciting news! Introducing our "50project 50days using HTML CSS JS" designed to take your web development abilities to new heights. 🌟 Join us on this journey as we explore a wide range of projects that will enhance your skills and expand your coding repertoire. Let's dive in and level up! 💻✨
+
 
 -3D Background Boxes
 - [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/3D%20Background%20Boxes)
@@ -97,3 +97,108 @@
 -Hoverboard
 - [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Hoverboard)
 - [Live demo](https://vishalvky.github.io/50projects50days/Hoverboard/)
+
+-Image Carousel
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Image%20Carousel)
+- [Live demo](https://vishalvky.github.io/50projects50days/Image%20Carousel/)
+
+-Incrementing  Counter
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Incrementing%20%20Counter)
+- [Live demo](https://vishalvky.github.io/50projects50days/Incrementing%20%20Counter/)
+
+-Insect Catch Game
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Insect%20Catch%20Game)
+- [Live demo](https://vishalvky.github.io/50projects50days/Insect%20Catch%20Game/)
+
+-Kinetic CSS Loader
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Kinetic%20CSS%20Loader)
+- [Live demo](https://vishalvky.github.io/50projects50days/Kinetic%20CSS%20Loader/)
+
+-Live User Filter
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Live%20User%20Filter)
+- [Live demo](https://vishalvky.github.io/50projects50days/Live%20User%20Filter/)
+
+-Mobile Tab Navigation
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Mobile%20Tab%20Navigation)
+- [Live demo](https://vishalvky.github.io/50projects50days/Mobile%20Tab%20Navigation/)
+
+-Movie App
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Movie%20App)
+- [Live demo](https://vishalvky.github.io/50projects50days/Movie%20App/)
+
+-Netflix Mobile Navigation
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Netflix%20Mobile%20Navigation)
+- [Live demo](https://vishalvky.github.io/50projects50days/Netflix%20Mobile%20Navigation/)
+
+-Notes App
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Notes%20App)
+- [Live demo](https://vishalvky.github.io/50projects50days/Notes%20App/)
+
+-Password Generator
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Password%20Generator)
+- [Live demo](https://vishalvky.github.io/50projects50days/Password%20Generator/)
+
+-Password Strength Background
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Password%20Strength%20Background)
+- [Live demo](https://vishalvky.github.io/50projects50days/Password%20Strength%20Background/)
+
+-Pokedex
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Pokedex)
+- [Live demo](https://vishalvky.github.io/50projects50days/Pokedex/)
+
+-Progress Steps
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Progress%20Steps)
+- [Live demo](https://vishalvky.github.io/50projects50days/Progress%20Steps/)
+
+-Quiz App
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Quiz%20App)
+- [Live demo](https://vishalvky.github.io/50projects50days/Quiz%20App/)
+
+-Random Choice Picker
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Random%20Choice%20Picker)
+- [Live demo](https://vishalvky.github.io/50projects50days/Random%20Choice%20Picker/)
+
+-Random Image Generator
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Random%20Image%20Generator)
+- [Live demo](https://vishalvky.github.io/50projects50days/Random%20Image%20Generator/)
+
+-Rotating-nav-animation
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Rotating-nav-animation)
+- [Live demo](https://vishalvky.github.io/50projects50days/Rotating-nav-animation/)
+
+-Scroll Animation
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Scroll%20Animation)
+- [Live demo](https://vishalvky.github.io/50projects50days/Scroll%20Animation/)
+
+-Sound Board
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Sound%20Board)
+- [Live demo](https://vishalvky.github.io/50projects50days/Sound%20Board/)
+
+-Split Landing Page
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Split%20Landing%20Page)
+- [Live demo](https://vishalvky.github.io/50projects50days/Split%20Landing%20Page/)
+
+-Sticky Navbar
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Sticky%20Navbar)
+- [Live demo](https://vishalvky.github.io/50projects50days/Sticky%20Navbar/)
+
+-Testimonial Box Switcher
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Testimonial%20Box%20Switcher)
+- [Live demo](https://vishalvky.github.io/50projects50days/Testimonial%20Box%20Switcher/)
+
+-Theme Clock
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Theme%20Clock)
+- [Live demo](https://vishalvky.github.io/50projects50days/Theme%20Clock/)
+
+-Toast Notification
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Toast%20Notification)
+- [Live demo](https://vishalvky.github.io/50projects50days/Toast%20Notification/)
+
+-Todo List
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Todo%20List)
+- [Live demo](https://vishalvky.github.io/50projects50days/Todo%20List/)
+
+-Verify Account UI
+- [Source Code](https://github.com/VISHALVKY/50projects50days/tree/main/Verify%20Account%20UI)
+- [Live demo](https://vishalvky.github.io/50projects50days/Verify%20Account%20UI/)
+
